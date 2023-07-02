@@ -29,7 +29,7 @@ npm start
 #### Screenshot
 
 ![Screenshots](./src/images/screenshot_1.png)
-
+![Screenshots](./src/images/screenshot_2.png)
 
 
   
