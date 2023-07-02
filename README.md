@@ -31,6 +31,6 @@ npm start
 
 ### live link for the application
 
-![live link](https://hichamraffiaidrissi.github.io/React_Portfolio/#/about) 
+(https://hichamraffiaidrissi.github.io/React_Portfolio/#/about) 
 
   
