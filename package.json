@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hichamraffiaidrissi.github.io/React_Portfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
@@ -45,6 +46,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
