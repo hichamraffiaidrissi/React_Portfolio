@@ -10,11 +10,11 @@ function About() {
                 <img class="mb-5" id="avatar" src="" alt="Hicham Raffiai Idrissi" />
 
                 <p>
-                full stack web developer (HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,
+                I'm a full stack web developer,I am passionate about the IT industry and my passion motivated me daily to learn new skills. My current skillset are (HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,
             Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.)
                 </p>
                 <p>
-                Quality Assurance Technician
+               I'm also a quality Assurance Technician.
                 </p>
             
             </div>
