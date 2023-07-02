@@ -23,14 +23,12 @@ npm install
 ```script
 npm start
 ```  
+### live link for the application
 
+(https://hichamraffiaidrissi.github.io/React_Portfolio/#/about) 
 #### Screenshot
 
 ![Screenshots](./src/images/screenshot_1.png)
 ![Screenshots](./src/images/screenshot_2.png)
-
-### live link for the application
-
-(https://hichamraffiaidrissi.github.io/React_Portfolio/#/about) 
 
   
