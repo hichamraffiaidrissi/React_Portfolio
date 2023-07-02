@@ -26,13 +26,9 @@ npm install
 npm start
 ```  
 
-## Documentation
-
-### Demonstration
-
 #### Screenshot
 
-![Screenshot of the Application]()
+![Screenshots](./src/images/screenshot_1.png)
 
 
 
