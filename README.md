@@ -30,6 +30,6 @@ npm start
 
 ![Screenshots](./src/images/screenshot_1.png)
 ![Screenshots](./src/images/screenshot_2.png)
-![Screenshots](./src/images/screenshot_3.png)
+![Screenshots](./src/images/Screenshot_3.png)
 
   
