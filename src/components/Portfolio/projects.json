@@ -2,7 +2,7 @@
     {
         "id": 3,
         "image": "https://github.com/hichamraffiaidrissi/Note_Taker/blob/main/public/assets/images/Screenshot-1.png?raw=true",
-        "name": "Nota Taker",
+        "name": "Note Taker",
         "github": "https://github.com/hichamraffiaidrissi/Note_Taker",
         "deploy": "https://peaceful-hamlet-57682.herokuapp.com/",
         "topics": ["Note Taker it can allow users to write, save and delete notes on their own."]
@@ -23,5 +23,13 @@
         "github": "https://github.com/hichamraffiaidrissi/Model-View-Controller-MVC-Tech-Blog",
         "deploy": "https://model-viewcontroller.herokuapp.com/",
         "topics": ["AS A developer who writes about tech I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my thoughts and opinions"]
+    }
+    {
+        "id": 4,
+        "image": "https://github.com/JDempe/Snapshot/blob/main/client/src/assets/logo.png",
+        "name": "Snapshot Photo App",
+        "github": "https://github.com/JDempe/Snapshot",
+        "deploy": "https://snapshot-marketplace-a63592d12ba6.herokuapp.com/",
+        "topics": ["As a photographer, I want a platform to share my work, make money by being able to sell my work, purchase prints from others, and connect with a community of people passionate about the medium."]
     }
 ]
